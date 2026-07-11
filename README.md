@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |

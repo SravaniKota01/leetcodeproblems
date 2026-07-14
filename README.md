@@ -4,11 +4,13 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0067-add-binary) |
 | [2544-alternating-digit-sum](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2544-alternating-digit-sum) |
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0066-plus-one) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |

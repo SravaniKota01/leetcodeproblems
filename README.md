@@ -6,6 +6,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0415-add-strings) |
 | [2544-alternating-digit-sum](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2544-alternating-digit-sum) |
 ## Array
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0415-add-strings) |
 ## Database
 |  |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0278-first-bad-version) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

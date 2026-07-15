@@ -37,4 +37,12 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0197-rising-temperature) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

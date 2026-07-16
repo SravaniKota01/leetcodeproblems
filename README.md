@@ -18,6 +18,7 @@
 | [0724-find-pivot-index](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0724-find-pivot-index) |
 | [0989-add-to-array-form-of-integer](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0989-add-to-array-form-of-integer) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2574-left-and-right-sum-differences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
 ## String
 |  |
 | ------- |
@@ -67,4 +68,5 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0724-find-pivot-index) |
+| [2574-left-and-right-sum-differences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->

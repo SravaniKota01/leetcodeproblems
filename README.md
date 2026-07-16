@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0066-plus-one) |
+| [0724-find-pivot-index](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0724-find-pivot-index) |
 | [0989-add-to-array-form-of-integer](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0989-add-to-array-form-of-integer) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

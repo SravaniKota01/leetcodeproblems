@@ -26,6 +26,7 @@
 | [0067-add-binary](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0415-add-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
@@ -69,4 +70,16 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

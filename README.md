@@ -19,6 +19,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0989-add-to-array-form-of-integer) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
+| [2670-find-the-distinct-difference-array](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2670-find-the-distinct-difference-array) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
+| [2670-find-the-distinct-difference-array](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2670-find-the-distinct-difference-array) |
 ## Queue
 |  |
 | ------- |

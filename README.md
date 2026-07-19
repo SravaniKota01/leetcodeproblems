@@ -49,6 +49,7 @@
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0197-rising-temperature) |
 ## Binary Search
 |  |

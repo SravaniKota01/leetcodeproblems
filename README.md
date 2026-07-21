@@ -40,6 +40,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0231-power-of-two) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
 | ------- |

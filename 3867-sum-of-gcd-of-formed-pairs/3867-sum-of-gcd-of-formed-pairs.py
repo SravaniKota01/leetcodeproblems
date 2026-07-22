@@ -1,9 +1,9 @@
 class Solution(object):
     def gcdSum(self, nums):
         def gcd(a, b):
-            while b:
-                a, b = b, a % b
-            return a
+           while b != 0:
+              a, b = b, a % b
+           return a
         l = []
         elementin_l = 0
         for num in nums:

@@ -11,6 +11,7 @@
 | [0415-add-strings](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0989-add-to-array-form-of-integer) |
 | [2544-alternating-digit-sum](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2544-alternating-digit-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2670-find-the-distinct-difference-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,6 +52,7 @@
 | [0067-add-binary](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0415-add-strings) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
@@ -66,6 +70,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0258-add-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -88,4 +93,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

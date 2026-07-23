@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0137-single-number-ii) |
 | [0724-find-pivot-index](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0724-find-pivot-index) |
@@ -36,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

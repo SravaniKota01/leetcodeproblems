@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0231-power-of-two) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -85,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [2670-find-the-distinct-difference-array](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2670-find-the-distinct-difference-array) |
 ## Queue

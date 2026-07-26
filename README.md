@@ -18,6 +18,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0137-single-number-ii) |
 | [0724-find-pivot-index](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0724-find-pivot-index) |
 | [0989-add-to-array-form-of-integer](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0989-add-to-array-form-of-integer) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -101,6 +103,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |

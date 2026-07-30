@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0137-single-number-ii) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |

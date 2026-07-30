@@ -33,6 +33,7 @@
 | [0008-string-to-integer-atoi](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
@@ -44,6 +45,7 @@
 | [0011-container-with-most-water](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |

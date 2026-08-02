@@ -38,6 +38,7 @@
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0415-add-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
@@ -49,6 +50,7 @@
 | [0125-valid-palindrome](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0392-is-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SravaniKota01/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

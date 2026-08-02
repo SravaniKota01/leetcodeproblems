@@ -34,6 +34,7 @@
 | [0012-integer-to-roman](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0012-integer-to-roman) |
+| [0205-isomorphic-strings](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/SravaniKota01/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [2670-find-the-distinct-difference-array](https://github.com/SravaniKota01/leetcodeproblems/tree/master/2670-find-the-distinct-difference-array) |
 ## Queue
